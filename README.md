@@ -36,7 +36,8 @@ To see all avaiable versions for your platform
 ```
 sdk list java
 ```
-Replace the x.y.z-dist with identifier from the above command execution
+
+Replace the x.y.z-dist with identifier from the table after executing the above command in the terminal.
 
 ### JDK Distributions
 #### Java SE Development Kit(Oracle)
