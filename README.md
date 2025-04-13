@@ -1,7 +1,7 @@
 # How to install java on linux
 A complete guide for installing Java Development Kit (JDK) on Linux systems, featuring step-by-step instructions for multiple distributions, environment variable configuration, version management, and troubleshooting tips to help you set up a reliable Java development environment.
 
-## Installation
+## Installation of SDKMAN
 Installing SDKMAN! on UNIX is a breeze. It effortlessly sets up on macOS, Linux and Windows (with WSL). Plus, it's compatible with both Bash and ZSH shells.
 
 Just launch a new terminal and type in:
@@ -38,15 +38,15 @@ sdk list java
 ```
 Replace the x.y.z-dist with identifier from the above command execution
 
-## JDK Distributions
-### Java SE Development Kit(Oracle)
+### JDK Distributions
+#### Java SE Development Kit(Oracle)
 This proprietary Java Development Kit is an implementation of the Java Platform, Standard Edition released by Oracle Corporation in the form of a binary product aimed at Java developers on Linux, macOS or Windows. The JDK includes a private JVM and a few other resources to finish the development of a Java application. It is distributed under the Oracle No-Fee Terms and Conditions License
 
 ```
 sdk install java x.y.z-oracle
 ```
 
-### Java SE Development Kit(JetBrains)
+#### Java SE Development Kit(JetBrains)
 
 ```
 sdk install java x.y.z-jbr
