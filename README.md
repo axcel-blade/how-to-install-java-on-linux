@@ -1,7 +1,10 @@
-# How to Install Java on Linux
+# How to Install Java on Linux 🐧
 A complete guide for installing Java Development Kit (JDK) on Linux systems, featuring step-by-step instructions for multiple distributions, environment variable configuration, version management, and troubleshooting tips to help you set up a reliable Java development environment.
 
-## Installation of SDKMAN
+## 🚀 Installation of SDKMAN
+<p align="center">
+<img src='https://sdkman.io/assets/img/sdk-man-small-pattern.svg' width=256>
+</p><br/>
 Installing SDKMAN! on UNIX is a breeze. It effortlessly sets up on macOS, Linux and Windows (with WSL). Plus, it's compatible with both Bash and ZSH shells.
 
 Just launch a new terminal and type in:
@@ -30,7 +33,7 @@ script: 5.19.0
 native: 0.5.0
 ```
 
-## Installation of java
+## 🚀 Installation of java
 To see all avaiable versions for your platform
 
 ```
